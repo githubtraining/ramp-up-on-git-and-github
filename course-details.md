@@ -1,0 +1,1 @@
+A set of resources leveraged by Microsoft employees to ramp up on Git and GitHub. Progress of this path is intended to take about 4 weeks, including 1 week of prerequisites.
