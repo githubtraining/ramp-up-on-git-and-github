@@ -2,7 +2,7 @@
 
 <h1 align="center">Course: Ramp up on Git and GitHub</h1>
 
-This repository powers the Learning Lab course [_Ramp up on Git and GitHub_](https://lab.github.com/githubtraining/ramp-up-on-git-and-github). 
+This repository powers the Learning Path [_Ramp up on Git and GitHub_](https://lab.github.com/githubtraining/ramp-up-on-git-and-github). 
 
 ## Contribute
 
